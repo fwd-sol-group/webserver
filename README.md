@@ -10,3 +10,6 @@ Steps:
 3. run "sudo ./webserver.sh
 4. check ip address for completion
 5. Smile
+
+
+you can view my example here: http://35.230.115.42
