@@ -9,8 +9,8 @@ You have a debian based linux machine with networking preconfigured
 
 Steps:
 1. Upload to or create .sh file in directory of your choice
-2. run chmod u+x webserver.sh from that directory. This gives executable permissions.
-3. run "sudo ./webserver.sh
+2. run "chmod u+x webserver.sh" from that directory. This gives executable permissions.
+3. run "sudo ./webserver.sh"
 4. navigate to ip address in web browser for completion
 5. Smile
 
